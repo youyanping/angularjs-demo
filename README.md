@@ -27,3 +27,7 @@ $ npm install (如果下载速度太慢，可先设置淘宝镜像 npm config se
 $ ng serve 
 
 浏览器访问  http://localhost:4200
+
+## 项目预览图
+![项目预览图](https://github.com/youyanping/angularjs-demo/blob/master/src/assets/images/image1.png)
+![项目预览图](https://github.com/youyanping/angularjs-demo/blob/master/src/assets/images/image2.png)
